@@ -3,12 +3,16 @@ import WidgetKit
 
 struct ContentView: View {
     @State private var loadState: LoadState = .idle
+    @State private var previousOpenDate: Date?
 
     @AppStorage("selectedMetric", store: AppGroup.userDefaults)
     private var metric: HorizonMetric = .p50
 
     @AppStorage("curveSelection", store: AppGroup.userDefaults)
     private var curveSelection: CurveSelection = .auto
+
+    @AppStorage("lastOpenAt", store: AppGroup.userDefaults)
+    private var lastOpenAtSeconds: Double = 0
 
     var body: some View {
         NavigationStack {
@@ -19,7 +23,15 @@ struct ContentView: View {
                 #endif
         }
         .preferredColorScheme(.dark)
-        .task { await load() }
+        .task {
+            if previousOpenDate == nil {
+                previousOpenDate = lastOpenAtSeconds > 0
+                    ? Date(timeIntervalSince1970: lastOpenAtSeconds)
+                    : nil
+                lastOpenAtSeconds = Date().timeIntervalSince1970
+            }
+            await load()
+        }
         .onChange(of: metric) { _, _ in WidgetCenter.shared.reloadAllTimelines() }
         .onChange(of: curveSelection) { _, _ in WidgetCenter.shared.reloadAllTimelines() }
     }
@@ -37,6 +49,7 @@ struct ContentView: View {
                 snapshot: snapshot,
                 metric: $metric,
                 curveSelection: $curveSelection,
+                previousOpenDate: previousOpenDate,
                 onRefresh: { await load(isRefresh: true) }
             )
         }
@@ -106,6 +119,7 @@ private struct LoadedView: View {
     let snapshot: BenchmarkSnapshot
     @Binding var metric: HorizonMetric
     @Binding var curveSelection: CurveSelection
+    let previousOpenDate: Date?
     let onRefresh: () async -> Void
 
     @State private var isShowingAllModels: Bool = false
@@ -172,6 +186,25 @@ private struct LoadedView: View {
                     }
                 } header: {
                     sectionHeader("Statistics", target: .statistics)
+                }
+
+                Section {
+                    if let previousOpenDate {
+                        progressRow(
+                            title: "Since Last Open",
+                            anchor: previousOpenDate,
+                            fit: fit
+                        )
+                    }
+                    if let startOfWeek = Self.startOfCurrentWeek() {
+                        progressRow(
+                            title: "Since \(Self.weekdayName(for: startOfWeek))",
+                            anchor: startOfWeek,
+                            fit: fit
+                        )
+                    }
+                } header: {
+                    Text("Recent Progress").textCase(nil)
                 }
 
                 Section {
@@ -429,6 +462,39 @@ private struct LoadedView: View {
                     .foregroundStyle(.secondary)
             }
         }
+    }
+
+    @ViewBuilder
+    private func progressRow(title: String, anchor: Date, fit: CurveFit) -> some View {
+        LabeledContent {
+            Text(progressDisplay(from: anchor, fit: fit))
+                .monospacedDigit()
+                .contentTransition(.numericText())
+        } label: {
+            VStack(alignment: .leading, spacing: 2) {
+                Text(title)
+                Text(anchor, format: .relative(presentation: .named))
+                    .font(.caption)
+                    .foregroundStyle(.secondary)
+            }
+        }
+    }
+
+    private func progressDisplay(from anchor: Date, fit: CurveFit) -> String {
+        let previousValue = fit.predictMinutes(at: anchor)
+        let currentValue = fit.predictMinutes(at: Date())
+        guard previousValue > 0, previousValue.isFinite, currentValue.isFinite else { return "—" }
+        let percentChange = (currentValue / previousValue - 1.0) * 100.0
+        let absoluteChangeMinutes = currentValue - previousValue
+        return "\(Self.formatSignedPercent(percentChange)) (\(Self.formatSignedDuration(minutes: absoluteChangeMinutes)))"
+    }
+
+    private static func startOfCurrentWeek() -> Date? {
+        Calendar.current.dateInterval(of: .weekOfYear, for: Date())?.start
+    }
+
+    private static func weekdayName(for date: Date) -> String {
+        date.formatted(.dateTime.weekday(.wide))
     }
 
     private func rateDisplay(over duration: TimeInterval, fit: CurveFit) -> String {
