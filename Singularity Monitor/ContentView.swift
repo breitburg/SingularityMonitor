@@ -191,14 +191,16 @@ private struct LoadedView: View {
                 Section {
                     if let previousOpenDate {
                         progressRow(
-                            title: "Since Last Open",
+                            title: "Last App Open",
+                            subtitle: previousOpenDate.formatted(.relative(presentation: .named)),
                             anchor: previousOpenDate,
                             fit: fit
                         )
                     }
                     if let startOfWeek = Self.startOfCurrentWeek() {
                         progressRow(
-                            title: "Since \(Self.weekdayName(for: startOfWeek))",
+                            title: "Since This \(Self.weekdayName(for: startOfWeek))",
+                            subtitle: nil,
                             anchor: startOfWeek,
                             fit: fit
                         )
@@ -465,17 +467,21 @@ private struct LoadedView: View {
     }
 
     @ViewBuilder
-    private func progressRow(title: String, anchor: Date, fit: CurveFit) -> some View {
+    private func progressRow(title: String, subtitle: String?, anchor: Date, fit: CurveFit) -> some View {
         LabeledContent {
             Text(progressDisplay(from: anchor, fit: fit))
                 .monospacedDigit()
                 .contentTransition(.numericText())
         } label: {
-            VStack(alignment: .leading, spacing: 2) {
+            if let subtitle {
+                VStack(alignment: .leading, spacing: 2) {
+                    Text(title)
+                    Text(subtitle)
+                        .font(.caption)
+                        .foregroundStyle(.secondary)
+                }
+            } else {
                 Text(title)
-                Text(anchor, format: .relative(presentation: .named))
-                    .font(.caption)
-                    .foregroundStyle(.secondary)
             }
         }
     }
