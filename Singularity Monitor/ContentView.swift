@@ -5,6 +5,8 @@ struct ContentView: View {
     @State private var loadState: LoadState = .idle
     @State private var previousOpenDate: Date?
 
+    @Environment(\.scenePhase) private var scenePhase
+
     @AppStorage("selectedMetric", store: AppGroup.userDefaults)
     private var metric: HorizonMetric = .p50
 
@@ -24,16 +26,23 @@ struct ContentView: View {
         }
         .preferredColorScheme(.dark)
         .task {
-            if previousOpenDate == nil {
-                previousOpenDate = lastOpenAtSeconds > 0
-                    ? Date(timeIntervalSince1970: lastOpenAtSeconds)
-                    : nil
-                lastOpenAtSeconds = Date().timeIntervalSince1970
-            }
+            recordAppOpen()
             await load()
+        }
+        .onChange(of: scenePhase) { oldPhase, newPhase in
+            if newPhase == .active && oldPhase != .active {
+                recordAppOpen()
+            }
         }
         .onChange(of: metric) { _, _ in WidgetCenter.shared.reloadAllTimelines() }
         .onChange(of: curveSelection) { _, _ in WidgetCenter.shared.reloadAllTimelines() }
+    }
+
+    private func recordAppOpen() {
+        previousOpenDate = lastOpenAtSeconds > 0
+            ? Date(timeIntervalSince1970: lastOpenAtSeconds)
+            : nil
+        lastOpenAtSeconds = Date().timeIntervalSince1970
     }
 
     @ViewBuilder
