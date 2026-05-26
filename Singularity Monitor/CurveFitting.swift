@@ -8,19 +8,19 @@ enum FitKind: String, CaseIterable, Hashable {
 
     var shortLabel: String {
         switch self {
-        case .exponential: return "Exp"
-        case .hyperexponential: return "Hyperexp"
-        case .hyperbolic: return "Hyperbolic"
-        case .sigmoid: return "Sigmoid"
+        case .exponential: return String(localized: "Exp")
+        case .hyperexponential: return String(localized: "Hyperexp")
+        case .hyperbolic: return String(localized: "Hyperbolic")
+        case .sigmoid: return String(localized: "Sigmoid")
         }
     }
 
     var longLabel: String {
         switch self {
-        case .exponential: return "Exponential"
-        case .hyperexponential: return "Hyperexponential"
-        case .hyperbolic: return "Hyperbolic"
-        case .sigmoid: return "Sigmoid"
+        case .exponential: return String(localized: "Exponential")
+        case .hyperexponential: return String(localized: "Hyperexponential")
+        case .hyperbolic: return String(localized: "Hyperbolic")
+        case .sigmoid: return String(localized: "Sigmoid")
         }
     }
 }
@@ -44,7 +44,7 @@ enum CurveSelection: Hashable, RawRepresentable {
 
     var displayLabel: String {
         switch self {
-        case .auto: return "Best Fit"
+        case .auto: return String(localized: "Best Fit")
         case .fixed(let kind): return kind.longLabel
         }
     }
@@ -69,8 +69,8 @@ enum HorizonMetric: String, CaseIterable, Hashable {
 
     var longLabel: String {
         switch self {
-        case .p50: return "50% success rate"
-        case .p80: return "80% success rate"
+        case .p50: return String(localized: "50% success rate")
+        case .p80: return String(localized: "80% success rate")
         }
     }
 }

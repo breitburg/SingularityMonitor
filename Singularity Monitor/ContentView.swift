@@ -257,7 +257,7 @@ private struct LoadedView: View {
             Section {
                 if let fit, let projectedDate = projectedNextReleaseDate {
                     modelRow(
-                        name: "Next Up",
+                        name: String(localized: "Next Up"),
                         date: projectedDate,
                         minutes: fit.predictMinutes(at: projectedDate),
                         isProjected: true
@@ -356,7 +356,7 @@ private struct LoadedView: View {
     }
 
     @ViewBuilder
-    private func sectionHeader(_ title: String, target: Explanation) -> some View {
+    private func sectionHeader(_ title: LocalizedStringResource, target: Explanation) -> some View {
         HStack(spacing: 6) {
             Text(title).textCase(nil)
             Button {
@@ -366,7 +366,7 @@ private struct LoadedView: View {
                     .foregroundStyle(.secondary)
             }
             .buttonStyle(.plain)
-            .accessibilityLabel("About \(title)")
+            .accessibilityLabel(Text("About \(Text(title))"))
         }
     }
 
@@ -431,7 +431,7 @@ private struct LoadedView: View {
         )
     }
 
-    private func heroPage(index: Int, title: String, minutes: Double) -> some View {
+    private func heroPage(index: Int, title: LocalizedStringResource, minutes: Double) -> some View {
         HeroReadout(title: title, minutes: minutes)
             .containerRelativeFrame(.horizontal)
             .scrollTransition { content, phase in
@@ -467,7 +467,7 @@ private struct LoadedView: View {
     }
 
     @ViewBuilder
-    private func progressRow(title: String, subtitle: String?, anchor: Date, fit: CurveFit) -> some View {
+    private func progressRow(title: LocalizedStringResource, subtitle: String?, anchor: Date, fit: CurveFit) -> some View {
         LabeledContent {
             Text(progressDisplay(from: anchor, fit: fit))
                 .monospacedDigit()
@@ -577,7 +577,7 @@ private struct LoadedView: View {
 }
 
 private struct HeroReadout: View {
-    let title: String
+    let title: LocalizedStringResource
     let minutes: Double
 
     var body: some View {

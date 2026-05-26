@@ -1,0 +1,2648 @@
+{
+  "sourceLanguage": "en",
+  "strings": {
+    "50% success rate": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "50% succespercentage"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "50 % Erfolgsrate"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Taux de réussite de 50 %"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Успешность 50 %"
+          }
+        }
+      }
+    },
+    "80% success rate": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "80% succespercentage"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "80 % Erfolgsrate"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Taux de réussite de 80 %"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Успешность 80 %"
+          }
+        }
+      }
+    },
+    "A caveat": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Een kanttekening"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hinweis"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mise en garde"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Оговорка"
+          }
+        }
+      }
+    },
+    "A countdown to when the chosen curve first reaches a 100-year horizon — a practical stand-in for \"effectively unbounded capability.\"": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Een aftelling tot wanneer de gekozen curve voor het eerst een horizon van 100 jaar bereikt — een praktische benadering voor \"effectief onbegrensde capaciteit.\""
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ein Countdown bis zu dem Zeitpunkt, an dem die gewählte Kurve erstmals einen 100-Jahres-Horizont erreicht — ein praktischer Ersatz für „effektiv unbegrenzte Fähigkeit\"."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Un compte à rebours jusqu'au moment où la courbe choisie atteint pour la première fois un horizon de 100 ans — un substitut pratique à « capacité effectivement illimitée »."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Обратный отсчёт до момента, когда выбранная кривая впервые достигает горизонта в 100 лет — практическая замена понятию «фактически неограниченные возможности»."
+          }
+        }
+      }
+    },
+    "A projection of when the next frontier release might land — and how capable it might be at that point.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Een schatting van wanneer de volgende grensverleggende release zou kunnen verschijnen — en hoe capabel die op dat moment zou zijn."
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Eine Hochrechnung, wann das nächste Spitzenmodell erscheinen könnte — und wie leistungsfähig es zu diesem Zeitpunkt wäre."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Une projection du moment où la prochaine version de pointe pourrait sortir — et de sa capacité estimée à ce moment-là."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Прогноз того, когда может выйти следующая передовая модель, и насколько мощной она будет на тот момент."
+          }
+        }
+      }
+    },
+    "A stand-in date for when the curve predicts effectively unbounded capability. Specifically, it's when the projected horizon length first reaches 100 years — a practical proxy for \"out of human range.\"": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Een richtdatum voor wanneer de curve effectief onbegrensde capaciteit voorspelt. Concreet: het moment waarop de geprojecteerde horizonlengte voor het eerst 100 jaar bereikt — een praktische benadering voor \"buiten menselijk bereik.\""
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ein Ersatzdatum für den Zeitpunkt, an dem die Kurve eine effektiv unbegrenzte Fähigkeit vorhersagt. Konkret: wenn die projizierte Horizontlänge erstmals 100 Jahre erreicht — ein praktischer Proxy für „außerhalb menschlicher Reichweite\"."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Une date approximative correspondant au moment où la courbe prédit une capacité effectivement illimitée. Plus précisément, c'est lorsque la longueur d'horizon projetée atteint 100 ans pour la première fois — un substitut pratique à « hors de portée humaine »."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Условная дата, когда кривая предсказывает фактически неограниченные возможности. А именно — момент, когда прогнозируемая длина горизонта впервые достигает 100 лет — практический эквивалент «за пределами человеческих возможностей»."
+          }
+        }
+      }
+    },
+    "About %@": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Over %@"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Über „%@\""
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "À propos de %@"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "О разделе «%@»"
+          }
+        }
+      }
+    },
+    "Acceleration on top of exponential. Doubling time shrinks as time goes on.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Versnelling bovenop exponentiële groei. De verdubbelingstijd krimpt naarmate de tijd verstrijkt."
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Beschleunigung zusätzlich zum exponentiellen Wachstum. Die Verdopplungszeit verkürzt sich im Lauf der Zeit."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Accélération en plus de la croissance exponentielle. Le temps de doublement diminue avec le temps."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ускорение поверх экспоненциального роста. Время удвоения сокращается со временем."
+          }
+        }
+      }
+    },
+    "Because the fit lives in log space, the doubling time falls out of its instantaneous slope:": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Omdat de fit zich in logaritmische ruimte bevindt, volgt de verdubbelingstijd uit haar momentane helling:"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Da die Anpassung im logarithmischen Raum lebt, ergibt sich die Verdopplungszeit aus ihrer momentanen Steigung:"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Comme l'ajustement vit dans l'espace logarithmique, le temps de doublement découle de sa pente instantanée :"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Поскольку аппроксимация выполняется в логарифмическом пространстве, время удвоения вытекает из её мгновенного наклона:"
+          }
+        }
+      }
+    },
+    "Benchmark": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Benchmark"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Benchmark"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Benchmark"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Тест"
+          }
+        }
+      }
+    },
+    "Best Fit": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Beste fit"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Beste Anpassung"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Meilleur ajustement"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Лучшее соответствие"
+          }
+        }
+      }
+    },
+    "Constant doubling time. The straight-line story on a log chart.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Constante verdubbelingstijd. Het rechte-lijnverhaal op een log-grafiek."
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Konstante Verdopplungszeit. Die Geradlinige Erzählung auf einem Log-Diagramm."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Temps de doublement constant. L'histoire en ligne droite sur un graphique logarithmique."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Постоянное время удвоения. Прямая линия на логарифмическом графике."
+          }
+        }
+      }
+    },
+    "Couldn't load benchmarks": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kan benchmarks niet laden"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Benchmarks konnten nicht geladen werden"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Impossible de charger les benchmarks"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Не удалось загрузить тесты"
+          }
+        }
+      }
+    },
+    "Couldn't read benchmark: %@": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kan benchmark niet lezen: %@"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Benchmark konnte nicht gelesen werden: %@"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Impossible de lire le benchmark : %@"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Не удалось прочитать тест: %@"
+          }
+        }
+      }
+    },
+    "Current AI horizon length from METR benchmarks.": {
+      "extractionState": "stale",
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Huidige AI-horizonlengte uit METR-benchmarks."
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aktuelle KI-Horizontlänge aus METR-Benchmarks."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Longueur actuelle de l'horizon IA d'après les benchmarks METR."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Текущая длина горизонта ИИ по тестам METR."
+          }
+        }
+      }
+    },
+    "Current horizon": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Huidige horizon"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aktueller Horizont"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Horizon actuel"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Текущий горизонт"
+          }
+        }
+      }
+    },
+    "Curve": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Curve"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kurve"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Courbe"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Кривая"
+          }
+        }
+      }
+    },
+    "Data points": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Datapunten"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Datenpunkte"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Points de données"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Точки данных"
+          }
+        }
+      }
+    },
+    "Done": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gereed"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fertig"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "OK"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Готово"
+          }
+        }
+      }
+    },
+    "Doubling time": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Verdubbelingstijd"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Verdopplungszeit"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Temps de doublement"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Время удвоения"
+          }
+        }
+      }
+    },
+    "Doubling Time": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Verdubbelingstijd"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Verdopplungszeit"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Temps de doublement"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Время удвоения"
+          }
+        }
+      }
+    },
+    "Each curve gives a different slope, so each implies a different doubling time. For exponential growth it's constant; for the others it changes with time.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Elke curve geeft een andere helling en impliceert dus een andere verdubbelingstijd. Bij exponentiële groei is hij constant; bij de andere verandert hij in de tijd."
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Jede Kurve hat eine andere Steigung und impliziert daher eine andere Verdopplungszeit. Bei exponentiellem Wachstum ist sie konstant; bei den anderen verändert sie sich im Lauf der Zeit."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Chaque courbe a une pente différente et implique donc un temps de doublement différent. Pour la croissance exponentielle, il est constant ; pour les autres, il varie dans le temps."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "У каждой кривой свой наклон, поэтому каждой соответствует своё время удвоения. Для экспоненциального роста оно постоянно; для остальных меняется во времени."
+          }
+        }
+      }
+    },
+    "Each curve is a different guess about how horizon length grows over time. The app fits all four to the data and lets you compare them.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Elke curve is een andere hypothese over hoe de horizonlengte groeit in de tijd. De app fit alle vier op de gegevens en laat je ze vergelijken."
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Jede Kurve ist eine andere Vermutung darüber, wie die Horizontlänge im Lauf der Zeit wächst. Die App passt alle vier an die Daten an und lässt dich sie vergleichen."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Chaque courbe est une hypothèse différente sur la façon dont la longueur d'horizon croît dans le temps. L'app les ajuste toutes les quatre aux données et te permet de les comparer."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Каждая кривая — это разная гипотеза о том, как длина горизонта растёт со временем. Приложение подбирает все четыре по данным и позволяет их сравнить."
+          }
+        }
+      }
+    },
+    "Each row is a measured horizon from a real model run — Anthropic's Claude line, OpenAI's GPT/o-series, Google's Gemini, plus earlier baselines like davinci-002 and GPT-2. The number is how long a task the model finishes at the selected success rate.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Elke rij is een gemeten horizon uit een echte modelrun — Anthropic's Claude-lijn, OpenAI's GPT/o-serie, Google's Gemini, plus eerdere referenties zoals davinci-002 en GPT-2. Het getal is hoe lang een taak het model voltooit bij het gekozen succespercentage."
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Jede Zeile ist ein gemessener Horizont aus einem echten Modelllauf — die Claude-Reihe von Anthropic, die GPT/o-Serie von OpenAI, Googles Gemini sowie frühere Referenzen wie davinci-002 und GPT-2. Die Zahl gibt an, wie lange eine Aufgabe ist, die das Modell bei der gewählten Erfolgsrate abschließt."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Chaque ligne est un horizon mesuré lors d'une exécution réelle — la gamme Claude d'Anthropic, la série GPT/o d'OpenAI, Gemini de Google, plus des références plus anciennes comme davinci-002 et GPT-2. Le nombre indique la durée d'une tâche que le modèle accomplit au taux de réussite sélectionné."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Каждая строка — это горизонт, измеренный в реальном запуске модели: линейка Claude от Anthropic, серия GPT/o от OpenAI, Gemini от Google, а также ранние эталоны вроде davinci-002 и GPT-2. Число показывает, насколько длинную задачу модель выполняет при выбранной успешности."
+          }
+        }
+      }
+    },
+    "Each row shows how much the horizon length changes over that window, starting from right now.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Elke rij toont hoeveel de horizonlengte verandert over dat venster, gerekend vanaf nu."
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Jede Zeile zeigt, wie stark sich die Horizontlänge über dieses Zeitfenster ab jetzt verändert."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Chaque ligne indique de combien la longueur d'horizon change sur cette fenêtre, à partir de maintenant."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Каждая строка показывает, насколько изменится длина горизонта за это окно, начиная с настоящего момента."
+          }
+        }
+      }
+    },
+    "Exp": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Exp"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Exp"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Exp"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Эксп"
+          }
+        }
+      }
+    },
+    "Exponential": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Exponentieel"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Exponentiell"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Exponentielle"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Экспоненциальная"
+          }
+        }
+      }
+    },
+    "Exponential growth eventually reaches any threshold. The date here is when the constant-doubling line crosses 100 years.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Exponentiële groei bereikt uiteindelijk elke drempel. De datum hier is wanneer de lijn met constante verdubbeling de 100 jaar passeert."
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Exponentielles Wachstum erreicht irgendwann jeden Schwellenwert. Das Datum hier ist der Zeitpunkt, an dem die Linie mit konstanter Verdopplung 100 Jahre überschreitet."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "La croissance exponentielle finit par atteindre n'importe quel seuil. La date ici correspond au moment où la ligne à doublement constant franchit 100 ans."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Экспоненциальный рост рано или поздно достигает любого порога. Дата здесь — это момент, когда линия с постоянным удвоением пересекает отметку в 100 лет."
+          }
+        }
+      }
+    },
+    "Exponential growth has a constant doubling time, so this number stays the same no matter when you look.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Exponentiële groei heeft een constante verdubbelingstijd, dus dit getal blijft hetzelfde, wanneer je ook kijkt."
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Exponentielles Wachstum hat eine konstante Verdopplungszeit, daher bleibt diese Zahl immer gleich, egal wann du hinschaust."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "La croissance exponentielle a un temps de doublement constant, donc ce nombre reste le même quel que soit le moment où tu regardes."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "У экспоненциального роста постоянное время удвоения, поэтому это число остаётся неизменным, когда бы вы ни посмотрели."
+          }
+        }
+      }
+    },
+    "Fetching METR benchmarks…": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "METR-benchmarks ophalen…"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "METR-Benchmarks werden abgerufen…"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Récupération des benchmarks METR…"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Загрузка тестов METR…"
+          }
+        }
+      }
+    },
+    "Fit": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fit"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Anpassung"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ajustement"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Аппроксимация"
+          }
+        }
+      }
+    },
+    "For the %@ fit, that resolves to:": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Voor de %@-fit komt dat neer op:"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Für die %@ Anpassung ergibt sich daraus:"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pour l'ajustement %@, cela donne :"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Для аппроксимации %@ это сводится к:"
+          }
+        }
+      }
+    },
+    "Growth runs into a vertical asymptote at time t_s. Predicts a singularity.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Groei loopt op een verticale asymptoot bij tijd t_s. Voorspelt een singulariteit."
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Das Wachstum läuft bei der Zeit t_s in eine vertikale Asymptote. Sagt eine Singularität voraus."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "La croissance heurte une asymptote verticale au temps t_s. Prédit une singularité."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Рост упирается в вертикальную асимптоту во времени t_s. Предсказывает сингулярность."
+          }
+        }
+      }
+    },
+    "Hide previous models": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Eerdere modellen verbergen"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Frühere Modelle ausblenden"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Masquer les modèles précédents"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Скрыть прежние модели"
+          }
+        }
+      }
+    },
+    "Higher is better, but a high R² only describes the past. Use it to compare fits on the same data, not as proof the future will follow.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hoger is beter, maar een hoge R² beschrijft alleen het verleden. Gebruik haar om fits op dezelfde gegevens te vergelijken, niet als bewijs dat de toekomst zich eraan zal houden."
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Höher ist besser, aber ein hohes R² beschreibt nur die Vergangenheit. Nutze es, um Anpassungen auf denselben Daten zu vergleichen, nicht als Beweis dafür, dass die Zukunft folgen wird."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Plus haut est mieux, mais un R² élevé ne décrit que le passé. Utilise-le pour comparer des ajustements sur les mêmes données, pas comme preuve que l'avenir suivra."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Чем выше, тем лучше, но высокий R² описывает только прошлое. Используйте его для сравнения аппроксимаций на одних и тех же данных, а не как доказательство того, что будущее последует за ним."
+          }
+        }
+      }
+    },
+    "Horizon": {
+      "extractionState": "stale",
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Horizon"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Horizont"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Horizon"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Горизонт"
+          }
+        }
+      }
+    },
+    "How closely the curve hugs the data, on a 0-to-1 scale.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hoe nauw de curve de gegevens volgt, op een schaal van 0 tot 1."
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wie eng sich die Kurve an die Daten schmiegt, auf einer Skala von 0 bis 1."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "À quel point la courbe épouse les données, sur une échelle de 0 à 1."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Насколько точно кривая повторяет данные, по шкале от 0 до 1."
+          }
+        }
+      }
+    },
+    "How it's calculated": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hoe het wordt berekend"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "So wird es berechnet"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Méthode de calcul"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Как это вычисляется"
+          }
+        }
+      }
+    },
+    "How long it takes the horizon length to double at the current rate. Smaller means faster progress.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hoe lang het duurt voor de horizonlengte verdubbelt bij het huidige tempo. Kleiner betekent snellere vooruitgang."
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wie lange es dauert, bis sich die Horizontlänge beim aktuellen Tempo verdoppelt. Kleiner bedeutet schnellerer Fortschritt."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Le temps nécessaire pour que la longueur d'horizon double au rythme actuel. Plus c'est petit, plus le progrès est rapide."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Время, за которое длина горизонта удваивается при текущем темпе. Меньше — быстрее прогресс."
+          }
+        }
+      }
+    },
+    "Hyperbolic": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hyperbolisch"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hyperbolisch"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hyperbolique"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Гиперболическая"
+          }
+        }
+      }
+    },
+    "Hyperbolic curves have a true vertical asymptote where the value blows up to infinity. The 100-year crossing sits a hair before that asymptote.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hyperbolische curves hebben een echte verticale asymptoot waar de waarde naar oneindig schiet. De 100-jaargrens ligt een haar vóór die asymptoot."
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hyperbolische Kurven haben eine echte vertikale Asymptote, an der der Wert ins Unendliche steigt. Die 100-Jahres-Schwelle liegt haarscharf vor dieser Asymptote."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Les courbes hyperboliques ont une véritable asymptote verticale où la valeur explose vers l'infini. Le passage aux 100 ans se situe juste avant cette asymptote."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "У гиперболических кривых есть настоящая вертикальная асимптота, в которой значение уходит в бесконечность. Отметка в 100 лет лежит чуть раньше этой асимптоты."
+          }
+        }
+      }
+    },
+    "Hyperexp": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hyperexp"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hyperexp"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hyperexp"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Гиперэксп"
+          }
+        }
+      }
+    },
+    "Hyperexponential": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hyperexponentieel"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hyperexponentiell"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hyperexponentielle"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Гиперэкспоненциальная"
+          }
+        }
+      }
+    },
+    "Hyperexponential growth accelerates, so it crosses 100 years sooner than a pure exponential would.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hyperexponentiële groei versnelt, dus passeert ze 100 jaar eerder dan een zuiver exponentiële curve dat zou doen."
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hyperexponentielles Wachstum beschleunigt sich, daher überschreitet es 100 Jahre früher als ein rein exponentielles."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "La croissance hyperexponentielle accélère, donc elle franchit 100 ans plus tôt qu'une exponentielle pure ne le ferait."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Гиперэкспоненциальный рост ускоряется, поэтому пересекает отметку в 100 лет раньше, чем это сделал бы чисто экспоненциальный."
+          }
+        }
+      }
+    },
+    "Hyperexponential growth speeds up over time, so the doubling time gets shorter as time goes on.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hyperexponentiële groei versnelt in de tijd, dus de verdubbelingstijd wordt korter naarmate de tijd verstrijkt."
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hyperexponentielles Wachstum beschleunigt sich im Lauf der Zeit, daher wird die Verdopplungszeit immer kürzer."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "La croissance hyperexponentielle s'accélère avec le temps, donc le temps de doublement raccourcit au fil du temps."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Гиперэкспоненциальный рост ускоряется со временем, поэтому время удвоения с течением времени сокращается."
+          }
+        }
+      }
+    },
+    "It's the absolute change in horizon length over the same window, shown in whatever unit fits — milliseconds up through years.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Het is de absolute verandering in horizonlengte over hetzelfde venster, weergegeven in de eenheid die past — van milliseconden tot jaren."
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Die absolute Änderung der Horizontlänge über dasselbe Zeitfenster, dargestellt in der jeweils passenden Einheit — von Millisekunden bis Jahren."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "C'est la variation absolue de la longueur d'horizon sur la même fenêtre, affichée dans l'unité la plus adaptée — de la milliseconde à l'année."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Это абсолютное изменение длины горизонта за то же окно, показанное в подходящих единицах — от миллисекунд до лет."
+          }
+        }
+      }
+    },
+    "It's the fitted curve evaluated at the current moment.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Het is de gefitte curve, geëvalueerd op het huidige moment."
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Es ist die angepasste Kurve, ausgewertet im aktuellen Moment."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "C'est la courbe ajustée évaluée à l'instant présent."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Это подобранная кривая, вычисленная в текущий момент."
+          }
+        }
+      }
+    },
+    "It's the relative change between the curve's value now and its value one window from now.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Het is de relatieve verandering tussen de waarde van de curve nu en haar waarde één venster verder."
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Es ist die relative Änderung zwischen dem aktuellen Kurvenwert und dem Wert ein Zeitfenster später."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "C'est la variation relative entre la valeur de la courbe maintenant et sa valeur une fenêtre plus tard."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Это относительное изменение между значением кривой сейчас и её значением через одно окно."
+          }
+        }
+      }
+    },
+    "Last App Open": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Laatste opening"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Letzte App-Öffnung"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dernière ouverture"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Последний запуск"
+          }
+        }
+      }
+    },
+    "Metric": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Metriek"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Metrik"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Métrique"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Метрика"
+          }
+        }
+      }
+    },
+    "Models": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Modellen"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Modelle"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Modèles"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Модели"
+          }
+        }
+      }
+    },
+    "Near the singularity, the doubling time approaches zero — the curve doubles arbitrarily fast as it runs out of room.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vlak bij de singulariteit nadert de verdubbelingstijd nul — de curve verdubbelt willekeurig snel naarmate de ruimte opraakt."
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nahe der Singularität nähert sich die Verdopplungszeit Null — die Kurve verdoppelt sich beliebig schnell, während ihr der Raum ausgeht."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Près de la singularité, le temps de doublement tend vers zéro — la courbe double arbitrairement vite à mesure qu'elle manque de place."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Возле сингулярности время удвоения стремится к нулю — кривая удваивается сколь угодно быстро, по мере того как у неё заканчивается пространство."
+          }
+        }
+      }
+    },
+    "Next Up": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Volgende"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Als Nächstes"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Prochain"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Следующая"
+          }
+        }
+      }
+    },
+    "Not enough data to fit a curve.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Te weinig data om een curve te fitten."
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nicht genügend Daten, um eine Kurve anzupassen."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pas assez de données pour ajuster une courbe."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Недостаточно данных для построения кривой."
+          }
+        }
+      }
+    },
+    "Per day": {
+      "extractionState": "stale",
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Per dag"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pro Tag"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Par jour"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "В день"
+          }
+        }
+      }
+    },
+    "Per hour": {
+      "extractionState": "stale",
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Per uur"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pro Stunde"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Par heure"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "В час"
+          }
+        }
+      }
+    },
+    "Per month": {
+      "extractionState": "stale",
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Per maand"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pro Monat"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Par mois"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "В месяц"
+          }
+        }
+      }
+    },
+    "Per week": {
+      "extractionState": "stale",
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Per week"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pro Woche"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Par semaine"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "В неделю"
+          }
+        }
+      }
+    },
+    "Per year": {
+      "extractionState": "stale",
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Per jaar"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pro Jahr"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Par an"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "В год"
+          }
+        }
+      }
+    },
+    "Percent shows pace. Duration shows scale. Together they make the rate readable whether the horizon is seconds or weeks long.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Procent toont tempo. Duur toont schaal. Samen maken ze de snelheid leesbaar, of de horizon nu seconden of weken lang is."
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Prozent zeigt das Tempo. Dauer zeigt die Größenordnung. Zusammen machen sie die Rate ablesbar, egal ob der Horizont Sekunden oder Wochen lang ist."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Le pourcentage montre le rythme. La durée montre l'échelle. Ensemble, ils rendent le taux lisible que l'horizon dure des secondes ou des semaines."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Процент показывает темп. Длительность — масштаб. Вместе они делают скорость наглядной, будь горизонт в секундах или неделях."
+          }
+        }
+      }
+    },
+    "R²": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "R²"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "R²"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "R²"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "R²"
+          }
+        }
+      }
+    },
+    "Rate of Change": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Veranderingssnelheid"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Änderungsrate"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Taux de variation"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Скорость изменения"
+          }
+        }
+      }
+    },
+    "Recent Progress": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Recente voortgang"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aktueller Fortschritt"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Progrès récents"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Недавние изменения"
+          }
+        }
+      }
+    },
+    "S-curve. Starts exponential, slows down, and saturates at a ceiling L.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "S-curve. Begint exponentieel, vertraagt, en verzadigt bij een plafond L."
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "S-Kurve. Beginnt exponentiell, verlangsamt sich und sättigt bei einer Obergrenze L."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Courbe en S. Commence de façon exponentielle, ralentit, puis sature à un plafond L."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "S-кривая. Начинает экспоненциально, замедляется и насыщается на потолке L."
+          }
+        }
+      }
+    },
+    "Show %lld previous models": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Toon %lld eerdere modellen"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld frühere Modelle anzeigen"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Afficher %lld modèles précédents"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Показать %lld прежних моделей"
+          }
+        }
+      }
+    },
+    "Sigmoid": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sigmoïde"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sigmoid"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sigmoïde"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Сигмоидная"
+          }
+        }
+      }
+    },
+    "Sigmoid growth saturates at a ceiling L. If L stays below 100 years, the singularity is never — the curve plateaus before it gets there.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sigmoïde groei verzadigt bij een plafond L. Blijft L onder de 100 jaar, dan is de singulariteit nooit — de curve vlakt af voordat ze daar komt."
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sigmoides Wachstum sättigt bei einer Obergrenze L. Bleibt L unter 100 Jahren, gibt es nie eine Singularität — die Kurve flacht ab, bevor sie dort ankommt."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "La croissance sigmoïde sature à un plafond L. Si L reste sous 100 ans, la singularité n'arrive jamais — la courbe plafonne avant d'y arriver."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Сигмоидный рост насыщается на потолке L. Если L остаётся ниже 100 лет, сингулярность не наступает никогда — кривая выходит на плато раньше."
+          }
+        }
+      }
+    },
+    "Sigmoid growth slows as it approaches its ceiling, so the doubling time grows without bound near the asymptote.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sigmoïde groei vertraagt naarmate ze haar plafond nadert, dus de verdubbelingstijd loopt onbegrensd op nabij de asymptoot."
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sigmoides Wachstum verlangsamt sich, je näher es seiner Obergrenze kommt, daher wächst die Verdopplungszeit nahe der Asymptote unbegrenzt an."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "La croissance sigmoïde ralentit à mesure qu'elle approche de son plafond, donc le temps de doublement croît sans limite près de l'asymptote."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Сигмоидный рост замедляется по мере приближения к потолку, поэтому возле асимптоты время удвоения неограниченно растёт."
+          }
+        }
+      }
+    },
+    "Since This %@": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sinds deze %@"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Seit diesem %@"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Depuis ce %@"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "С этого %@"
+          }
+        }
+      }
+    },
+    "Singularity": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Singulariteit"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Singularität"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Singularité"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Сингулярность"
+          }
+        }
+      }
+    },
+    "Singularity Monitor": {
+      "shouldTranslate": false
+    },
+    "Source": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bron"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Quelle"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Source"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Источник"
+          }
+        }
+      }
+    },
+    "Statistics": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Statistieken"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Statistik"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Statistiques"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Статистика"
+          }
+        }
+      }
+    },
+    "The 100-year crossing falls out of solving the selected curve for the threshold. For hyperbolic fits it's just before the vertical asymptote; for sigmoid fits it can be \"never\" if the curve plateaus below 100 years.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Het passeren van 100 jaar volgt uit het oplossen van de gekozen curve voor de drempel. Voor hyperbolische fits ligt het vlak vóór de verticale asymptoot; voor sigmoïde fits kan het \"nooit\" zijn als de curve onder de 100 jaar afvlakt."
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Die 100-Jahres-Schwelle ergibt sich aus dem Auflösen der gewählten Kurve nach diesem Wert. Bei hyperbolischen Anpassungen liegt sie kurz vor der vertikalen Asymptote; bei sigmoiden Anpassungen kann sie „nie\" sein, wenn die Kurve unter 100 Jahren abflacht."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Le passage aux 100 ans découle de la résolution de la courbe choisie pour ce seuil. Pour les ajustements hyperboliques, il se situe juste avant l'asymptote verticale ; pour les ajustements sigmoïdes, il peut être « jamais » si la courbe plafonne sous 100 ans."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Отметка в 100 лет получается из решения выбранной кривой относительно этого порога. Для гиперболических аппроксимаций она лежит прямо перед вертикальной асимптотой; для сигмоидных может быть «никогда», если кривая выходит на плато ниже 100 лет."
+          }
+        }
+      }
+    },
+    "The benchmark file has no results section.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Het benchmarkbestand bevat geen resultatensectie."
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Die Benchmark-Datei enthält keinen results-Abschnitt."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Le fichier de benchmark ne contient pas de section results."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "В файле теста отсутствует раздел результатов."
+          }
+        }
+      }
+    },
+    "The benchmark file isn't valid YAML.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Het benchmarkbestand is geen geldige YAML."
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Die Benchmark-Datei ist kein gültiges YAML."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Le fichier de benchmark n'est pas un YAML valide."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Файл теста не является корректным YAML."
+          }
+        }
+      }
+    },
+    "The current horizon length predicted by the selected curve — how long a task a frontier model can complete with the chosen success rate.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "De huidige horizonlengte zoals voorspeld door de gekozen curve — hoe lang een taak een grensverleggend model kan voltooien bij het gekozen succespercentage."
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Die aktuelle Horizontlänge, die von der gewählten Kurve vorhergesagt wird — wie lange eine Aufgabe ist, die ein Spitzenmodell mit der gewählten Erfolgsrate erledigen kann."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "La longueur d'horizon actuelle prédite par la courbe choisie — la durée d'une tâche qu'un modèle de pointe peut accomplir au taux de réussite choisi."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Текущая длина горизонта, предсказанная выбранной кривой, — насколько длинную задачу передовая модель может выполнить при выбранной успешности."
+          }
+        }
+      }
+    },
+    "The duration": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "De duur"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Die Dauer"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "La durée"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Длительность"
+          }
+        }
+      }
+    },
+    "The fit is the curve you've chosen for the trend, the success rate it's measured against, and a quality score that tells you how well it matches the data.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "De fit is de curve die je voor de trend hebt gekozen, het succespercentage waartegen ze gemeten wordt, en een kwaliteitsscore die aangeeft hoe goed ze bij de gegevens past."
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Die Anpassung besteht aus der Kurve, die du für den Trend gewählt hast, der Erfolgsrate, gegen die gemessen wird, und einer Qualitätskennzahl, die zeigt, wie gut sie zu den Daten passt."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "L'ajustement, c'est la courbe que tu as choisie pour la tendance, le taux de réussite par rapport auquel elle est mesurée, et un score de qualité qui indique à quel point elle colle aux données."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Аппроксимация — это выбранная вами кривая для тренда, успешность, по которой она измеряется, и оценка качества, показывающая, насколько хорошо она соответствует данным."
+          }
+        }
+      }
+    },
+    "The horizon at that date is the selected curve evaluated at that future moment.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "De horizon op die datum is de gekozen curve, geëvalueerd op dat toekomstige moment."
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Der Horizont an diesem Datum ist die gewählte Kurve, ausgewertet zu diesem zukünftigen Zeitpunkt."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "L'horizon à cette date est la courbe choisie évaluée à ce moment futur."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Горизонт на эту дату — это выбранная кривая, вычисленная в этот будущий момент."
+          }
+        }
+      }
+    },
+    "The list is the raw evidence underneath the curve — the points the fit is drawn through. Tap \"Show previous models\" to see the longer history.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "De lijst is het ruwe bewijs onder de curve — de punten waardoor de fit is getrokken. Tik op \"Toon eerdere modellen\" om de langere historie te zien."
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Die Liste ist die Rohdatenbasis unter der Kurve — die Punkte, durch die die Anpassung gezogen wird. Tippe auf „Frühere Modelle anzeigen\", um den längeren Verlauf zu sehen."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "La liste, ce sont les données brutes qui sous-tendent la courbe — les points par lesquels passe l'ajustement. Touche « Afficher les modèles précédents » pour voir l'historique plus long."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Список — это исходные данные под кривой, точки, через которые проведена аппроксимация. Коснитесь «Показать прежние модели», чтобы увидеть более длинную историю."
+          }
+        }
+      }
+    },
+    "The other models": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "De overige modellen"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Die übrigen Modelle"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Les autres modèles"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Остальные модели"
+          }
+        }
+      }
+    },
+    "The percent": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Het percentage"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Der Prozentsatz"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Le pourcentage"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Процент"
+          }
+        }
+      }
+    },
+    "The release date is extrapolated from the average gap between past releases:": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "De releasedatum wordt geëxtrapoleerd uit het gemiddelde interval tussen eerdere releases:"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Das Veröffentlichungsdatum wird aus dem durchschnittlichen Abstand zwischen früheren Veröffentlichungen extrapoliert:"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "La date de sortie est extrapolée à partir de l'écart moyen entre les sorties précédentes :"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Дата релиза экстраполируется из среднего интервала между прежними релизами:"
+          }
+        }
+      }
+    },
+    "The success rate the horizon is measured against. 50% means the model finishes a task of that length half the time; 80% is the stricter, more reliable bar.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Het succespercentage waartegen de horizon wordt gemeten. 50% betekent dat het model een taak van die lengte de helft van de tijd voltooit; 80% is de strengere, betrouwbaardere lat."
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Die Erfolgsrate, gegen die der Horizont gemessen wird. 50 % bedeutet, dass das Modell eine Aufgabe dieser Länge in der Hälfte der Fälle abschließt; 80 % ist die strengere, verlässlichere Latte."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Le taux de réussite par rapport auquel l'horizon est mesuré. 50 % signifie que le modèle termine une tâche de cette durée la moitié du temps ; 80 % est la barre plus stricte et plus fiable."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Успешность, относительно которой измеряется горизонт. 50 % означает, что модель выполняет задачу такой длины в половине случаев; 80 % — более строгая, надёжная планка."
+          }
+        }
+      }
+    },
+    "This section lists every frontier model in METR's benchmark, newest first, with its measured horizon length on the selected metric.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dit gedeelte toont elk grensverleggend model in METR's benchmark, nieuwste eerst, met de gemeten horizonlengte op de gekozen metriek."
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dieser Abschnitt listet jedes Spitzenmodell im METR-Benchmark auf, das neueste zuerst, mit seiner gemessenen Horizontlänge auf der gewählten Metrik."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cette section liste chaque modèle de pointe du benchmark METR, du plus récent au plus ancien, avec sa longueur d'horizon mesurée sur la métrique sélectionnée."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "В этом разделе перечислены все передовые модели из теста METR — от новейших к старым — с измеренной длиной горизонта по выбранной метрике."
+          }
+        }
+      }
+    },
+    "Time keeps moving, and so does the curve. The number updates live so you can watch the trend in real time.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "De tijd loopt door, en de curve dus ook. Het getal werkt live bij, zodat je de trend in realtime kunt volgen."
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Die Zeit läuft weiter, und die Kurve auch. Die Zahl wird live aktualisiert, damit du den Trend in Echtzeit verfolgen kannst."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Le temps continue d'avancer, et la courbe aussi. Le nombre se met à jour en direct pour que tu puisses suivre la tendance en temps réel."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Время идёт, и кривая вместе с ним. Число обновляется в реальном времени, чтобы вы могли наблюдать за тенденцией вживую."
+          }
+        }
+      }
+    },
+    "Treat the date as a property of the chosen curve, not a literal forecast.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Behandel de datum als een eigenschap van de gekozen curve, niet als een letterlijke voorspelling."
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Betrachte das Datum als Eigenschaft der gewählten Kurve, nicht als wörtliche Vorhersage."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Considère cette date comme une propriété de la courbe choisie, pas comme une prévision littérale."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Воспринимайте эту дату как свойство выбранной кривой, а не как буквальный прогноз."
+          }
+        }
+      }
+    },
+    "Treat the date as a property of the chosen curve, not a literal prediction about the world.": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Behandel de datum als een eigenschap van de gekozen curve, niet als een letterlijke voorspelling over de wereld."
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Betrachte das Datum als Eigenschaft der gewählten Kurve, nicht als wörtliche Vorhersage über die Welt."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Considère cette date comme une propriété de la courbe choisie, pas comme une prédiction littérale sur le monde."
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Воспринимайте эту дату как свойство выбранной кривой, а не как буквальное предсказание о мире."
+          }
+        }
+      }
+    },
+    "Try again": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Opnieuw proberen"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Erneut versuchen"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Réessayer"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Повторить"
+          }
+        }
+      }
+    },
+    "Until singularity": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tot singulariteit"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bis zur Singularität"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Jusqu'à la singularité"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "До сингулярности"
+          }
+        }
+      }
+    },
+    "Updated": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bijgewerkt"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aktualisiert"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Actualisé"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Обновлено"
+          }
+        }
+      }
+    },
+    "Why both": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Waarom beide"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Warum beides"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pourquoi les deux"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Зачем оба"
+          }
+        }
+      }
+    },
+    "Why bother": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Waarom dit telt"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wozu das Ganze"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pourquoi s'en soucier"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Зачем это нужно"
+          }
+        }
+      }
+    },
+    "Why it ticks": {
+      "localizations": {
+        "nl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Waarom het tikt"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Warum es tickt"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pourquoi ça avance"
+          }
+        },
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Почему оно тикает"
+          }
+        }
+      }
+    }
+  },
+  "version": "1.0"
+}

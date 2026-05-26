@@ -43,9 +43,9 @@ enum BenchmarkLoaderError: LocalizedError {
 
     var errorDescription: String? {
         switch self {
-        case .invalidYAML: return "The benchmark file isn't valid YAML."
-        case .missingResults: return "The benchmark file has no results section."
-        case .decodingFailed(let detail): return "Couldn't read benchmark: \(detail)"
+        case .invalidYAML: return String(localized: "The benchmark file isn't valid YAML.")
+        case .missingResults: return String(localized: "The benchmark file has no results section.")
+        case .decodingFailed(let detail): return String(localized: "Couldn't read benchmark: \(detail)")
         }
     }
 }

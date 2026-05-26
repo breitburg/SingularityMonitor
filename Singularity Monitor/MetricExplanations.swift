@@ -2,7 +2,7 @@ import SwiftUI
 import LaTeXSwiftUI
 
 private struct ExplanationScaffold<Content: View>: View {
-    let title: String
+    let title: LocalizedStringKey
     @ViewBuilder var content: () -> Content
     @Environment(\.dismiss) private var dismiss
 
@@ -29,9 +29,9 @@ private struct ExplanationScaffold<Content: View>: View {
 }
 
 private struct ExplanationParagraph: View {
-    let text: String
+    let text: LocalizedStringKey
 
-    init(_ text: String) { self.text = text }
+    init(_ text: LocalizedStringKey) { self.text = text }
 
     var body: some View {
         Text(text)
@@ -42,9 +42,9 @@ private struct ExplanationParagraph: View {
 }
 
 private struct ExplanationHeading: View {
-    let text: String
+    let text: LocalizedStringKey
 
-    init(_ text: String) { self.text = text }
+    init(_ text: LocalizedStringKey) { self.text = text }
 
     var body: some View {
         Text(text)
@@ -81,7 +81,7 @@ struct StatisticsExplanation: View {
             case .sigmoid: return "$$T_{\\text{double}}(t) = \\frac{\\ln 2}{-b\\bigl(1 - \\sigma(a + bt)\\bigr)}$$"
             }
         }()
-        let doublingIntuition: String = {
+        let doublingIntuition: LocalizedStringKey = {
             switch fitKind {
             case .exponential: return "Exponential growth has a constant doubling time, so this number stays the same no matter when you look."
             case .hyperexponential: return "Hyperexponential growth speeds up over time, so the doubling time gets shorter as time goes on."
